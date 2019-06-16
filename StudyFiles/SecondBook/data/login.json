@@ -1,0 +1,16 @@
+{
+  "tpshop_login001":
+                 {
+                   "username": "13511111112",
+                  "password": "123456",
+                  "code": "8888",
+                  "except":"账号不存在"
+                 },
+  "tpshop_login002":
+                 {
+                   "username": "13511111111",
+                  "password": "1234567",
+                  "code": "8888",
+                  "except":"密码错误"
+                 }
+}
